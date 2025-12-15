@@ -43,9 +43,8 @@ The Power BI report contains:
 - Micro-market comparison visuals
 - Amenity and connectivity impact analysis
 - Interactive filters for business users
+<img width="1282" height="723" alt="Screenshot 2025-12-15 170807" src="https://github.com/user-attachments/assets/428b7710-f20d-41da-ab35-2b6f24ad2c68" />
 
-## Screenshots
-Dashboard screenshots are available in the `screenshots/` folder.
 
 ## Business Impact
 - Helps developers identify high-conversion markets
